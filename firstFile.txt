@@ -1,5 +1,6 @@
 NEW LINE SAMPLE TEXT
 Matt is adding nifty new content!
 This is the initial contents
+We Are doing new things for Scenario 2
 of the first file that
 comprises the project.
